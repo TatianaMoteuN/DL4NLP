@@ -1,0 +1,2 @@
+transformers==4.19.0
+tensorflow==2.8.0
